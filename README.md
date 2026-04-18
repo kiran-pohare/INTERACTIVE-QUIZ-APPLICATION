@@ -21,4 +21,4 @@ In conclusion, an interactive quiz application is an excellent project for learn
 
 #OUTPUT
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8222bc56-e2e0-4574-8dfb-44b7646244e9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8222bc56-e2e0-4574-8dfb-44b7646244e9"/>
